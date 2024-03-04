@@ -9,7 +9,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f46791c-38df-44da-8603-c61f4c4f679a" name="更改" comment="" />
+    <list default="true" id="2f46791c-38df-44da-8603-c61f4c4f679a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/RegisterPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/ChatFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/ChatFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/LoginPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/LoginPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/UserFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/spl/chatclient/gui/UserFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pers/spl/chatserver/datasource/DbcpConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/spl/chatserver/datasource/DbcpConnectionPool.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +35,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -45,7 +59,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Desktop/Java应用技术/ScholarSearchEngine",
+    "last_opened_file_path": "D:/Desktop/Java应用技术/pta",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,6 +118,20 @@
       <workItem from="1702787524987" duration="3323000" />
       <workItem from="1702790901406" duration="15000" />
       <workItem from="1702799350843" duration="16978000" />
+      <workItem from="1702822407095" duration="506000" />
+      <workItem from="1702880527067" duration="343000" />
+      <workItem from="1702952081119" duration="172000" />
+      <workItem from="1702953339821" duration="165000" />
+      <workItem from="1703041914521" duration="12000" />
+      <workItem from="1705391215894" duration="11354000" />
+      <workItem from="1705414182045" duration="638000" />
+      <workItem from="1705460609854" duration="57000" />
+      <workItem from="1705467105114" duration="10263000" />
+      <workItem from="1705487422508" duration="8000" />
+      <workItem from="1705487596229" duration="41000" />
+      <workItem from="1705567991333" duration="105000" />
+      <workItem from="1706361908868" duration="125000" />
+      <workItem from="1709189459520" duration="14000" />
     </task>
     <servers />
   </component>

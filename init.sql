@@ -15,23 +15,4 @@ CREATE TABLE message (
     FOREIGN KEY (receiver) REFERENCES user(username)
 );
 
-INSERT INTO user (username, password)
-VALUES ('Zjuer', '123456');
-INSERT INTO user (username, password)
-VALUES ('Sender1', '123456');
-INSERT INTO user (username, password)
-VALUES ('Sender2', '123456');
-
-INSERT INTO message (sender, receiver, content)
-VALUES ('Sender1', 'Zjuer', '这是一条测试消息1');
-INSERT INTO message (sender, receiver, content)
-VALUES ('Sender2', 'Zjuer', '这是一条测试消息2');
-INSERT INTO message (sender, receiver, content)
-VALUES ('Sender1', 'Zjuer', '这是一条测试消息3');
-INSERT INTO message (sender, receiver, content)
-VALUES ('Sender2', 'Zjuer', '这是一条测试消息4');
-INSERT INTO message (sender, receiver, content)
-VALUES ('Zjuer', 'Sender1', '这是一条测试消息5');
-INSERT INTO message (sender, receiver, content)
-VALUES ('Zjuer', 'Sender1', '这是一条测试消息6');
 

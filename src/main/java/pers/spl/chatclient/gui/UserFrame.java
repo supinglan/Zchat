@@ -23,7 +23,7 @@ public class UserFrame extends JFrame {
         setLocationRelativeTo(null); // 窗体居中显示
         FlatLightLaf.install();
         try {
-            Image icon = ImageIO.read(new File("src/main/resources/logo.png")); // 替换为实际图标路径
+            Image icon = ImageIO.read(new File("src/main/resources/logo.png"));
             setIconImage(icon);
         } catch (IOException e) {
             e.printStackTrace();
